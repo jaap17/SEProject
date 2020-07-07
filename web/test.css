@@ -1,0 +1,40 @@
+h1
+{
+	background-color:green;
+	border-style:solid;
+        border-color:blueviolet;
+        border-radius: 20px;
+}
+body
+{
+        /*background-image: url("background.jpg");
+        
+        height:100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;*/
+        background:linear-gradient(#F17C58,#E94584,#24AADB,#27DBB1,#FFDC18,#FF3706);
+        background-size: cover;
+        height:100%;
+        background-repeat: repeat;
+        background-position: center;
+}
+h2
+{
+        
+        width: 300px;
+        border: 15px solid green;
+        padding: 50px;
+        margin: 20px;
+        background-color: blanchedalmond;
+}
+h3
+{
+        //border-style:dashed;
+        width: 300px;
+        border: 15px solid blueviolet;
+        padding: 50px;
+        margin: 20px;
+        background-color: blanchedalmond;
+    
+}
